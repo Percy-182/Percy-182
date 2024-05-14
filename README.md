@@ -6,7 +6,7 @@ Mi experiencia previa proviene del rubro de la informática, específicamente en
 
 Busco oportunidades para aplicar mis conocimientos y habilidades en el desarrollo web, contribuyendo al crecimiento de proyectos innovadores y desafiantes. Estoy entusiasmado por seguir aprendiendo y creciendo profesionalmente en el campo de la tecnología.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+
 
 
 ## 📫 Contacto
