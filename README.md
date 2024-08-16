@@ -12,8 +12,8 @@ Busco oportunidades para aplicar mis conocimientos y habilidades en el desarroll
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<percy.garcia@pgselectric.cl>**
-- Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/percy-ignacio-garcia-rubio-7bb3b523a/))**
-- Puedes visitar mi **[sitio web](https://pgselectric.cl)**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/percy-ignacio-garcia-rubio-7bb3b523a/](https://www.linkedin.com/in/percygarciar/))**
+- Puedes visitar mi Sitio Web **[PGS Electric](https://pgselectric.cl)**
 
 ### 🎨 Frontend
 
