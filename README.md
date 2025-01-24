@@ -1,10 +1,10 @@
 # Hola 👋, soy Percy Ignacio Garcia Rubio
 
-¡Hola! Soy Percy Garcia, un fanático por la tecnología y la informática. Actualmente me encuentro estudiando como Full Stack JavaScript Trainee en Desafío Latam, donde estoy adquiriendo habilidades y conocimientos para desarrollar aplicaciones web de principio a fin.
+"¡Hola! Soy Percy Garcia, desarrollador Full Stack JavaScript apasionado por crear soluciones tecnológicas innovadoras. Como graduado de Desafío Latam, manejo tecnologías como HTML5, CSS3, JavaScript, Bootstrap, Node.js y Express.
 
-Mi experiencia previa proviene del rubro de la informática, específicamente en el servicio técnico de laptops, hardware y software. Durante este tiempo, he desarrollado habilidades en diagnóstico y reparación de hardware, instalación y configuración de software, así como en el armado de PC y ventas.
+Mi experiencia en soporte técnico me ha proporcionado una sólida base en resolución de problemas complejos, pensamiento analítico y atención al detalle. Esta experiencia, combinada con mis habilidades en desarrollo web, me permite abordar desafíos técnicos desde múltiples perspectivas. Actualmente, integro estos conocimientos en mi emprendimiento de servicios tecnológicos, donde desarrollo soluciones personalizadas para clientes.
 
-Busco oportunidades para aplicar mis conocimientos y habilidades en el desarrollo web, contribuyendo al crecimiento de proyectos innovadores y desafiantes. Estoy entusiasmado por seguir aprendiendo y creciendo profesionalmente en el campo de la tecnología.
+Busco oportunidades como Desarrollador Full Stack o Frontend donde pueda crecer profesionalmente mientras aporto valor inmediato al equipo. Me destaco por mi capacidad de aprendizaje rápido, ser autodidacta, detallista y trabajo colaborativo. Paralelamente, continúo desarrollando proyectos personales para expandir tanto mis habilidades técnicas. proyectos y mantenerme actualizado con las últimas tecnologías. Abierto a roles remotos preferentemente.
 
 
 
@@ -13,7 +13,7 @@ Busco oportunidades para aplicar mis conocimientos y habilidades en el desarroll
 
 - Puedes contactarme a través de mi correo electrónico: **<percy.garcia@pgselectric.cl>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/percy-ignacio-garcia-rubio-7bb3b523a/](https://www.linkedin.com/in/percygarciar/))**
-- Puedes visitar mi Sitio Web **[PGS Electric](https://pgselectric.cl)**
+- Puedes visitar mi Sitio Web en progreso... **[PGS Electric](https://pgselectric.cl)**
 
 ### 🎨 Frontend
 
