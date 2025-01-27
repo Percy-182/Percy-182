@@ -12,7 +12,7 @@ Busco oportunidades como Desarrollador Full Stack o Frontend donde pueda crecer 
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<percy.garcia@pgselectric.cl>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/percy-ignacio-garcia-rubio-7bb3b523a(https://www.linkedin.com/in/percygarciar/))**
+- Puedes contactarme a través de **[Linkedin]((https://www.linkedin.com/in/percygarciar/))**
 - Puedes visitar mi Sitio Web en progreso... **[PGS Electric](https://pgselectric.cl)**
 
 ### 🎨 Frontend
